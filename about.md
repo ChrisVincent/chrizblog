@@ -2,20 +2,11 @@
 layout: page
 title: 关于ChriZ
 ---
-## About
+## 关于我
 Chriz是一个产品经理。热爱这个世界，希望它变得更美好。
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+我的github [点击这里](https://github.com/ChrisVincent).
 
-![Emerald](img/Emerald01.png "Emerald")
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root.
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+### 我的愿望
+每个人都能平等的享受美好的世界。让每个人都能过上更有质量的生活。
