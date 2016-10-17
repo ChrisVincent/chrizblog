@@ -1,14 +1,14 @@
 # Site settings
 title: ChriZ - 创作|生活|学习|爱
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+description: "ChriZ的小博客"
+url: "http://chriz.vip"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "ChriZ"
+  email: "gorillazchris@gmail.com"
+  url: "http://chriz.vip"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
