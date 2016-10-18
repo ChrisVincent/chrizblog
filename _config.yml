@@ -1,6 +1,6 @@
 # Site settings
 title: ChriZ - 产品经理|创作|生活|学习|爱
-description: "ChriZ - 进击的产品经理|创作|生活|学习|爱"
+description: "ChriZ - 产品经理|创作|生活|学习|爱"
 url: "http://chriz.vip"
 author:
   name: "ChriZ"
@@ -34,7 +34,7 @@ gems:
 
 # Custom variables
 version: "1.1.0"
-motto: "2016"
+motto: "自律方能得自由"
 
 # Options
 custom_header: false
