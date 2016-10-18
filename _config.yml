@@ -1,11 +1,14 @@
 # Site settings
-title: ChriZ - 创作|生活|学习|爱
-description: "ChriZ的小博客"
+title: ChriZ - 产品经理|创作|生活|学习|爱
+description: "ChriZ - 进击的产品经理|创作|生活|学习|爱"
 url: "http://chriz.vip"
 author:
   name: "ChriZ"
   email: "gorillazchris@gmail.com"
   url: "http://chriz.vip"
+# Added by ChriZ
+future: true
+timezone: nil
 
 # Build settings
 baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a /
