@@ -2,12 +2,11 @@
 layout: default
 ---
 <article id="post-page">
-	<h2>{{ page.title }}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<h2 class="post-page-title">{{ page.title }}</h2>
+	<time datetime="{{ page.date | date_to_string  }}" class="by-line">{{ page.date | date: "%Y-%m-%d"  }}</time>
 	<div class="content">
 
 		{{ content }}
-		
+
 	</div>
 </article>
-
