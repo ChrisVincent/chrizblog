@@ -290,8 +290,7 @@ blockquote {
   padding-bottom: 50px;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-  height: auto;
-  position: relative; }
+  height: auto; }
 
 #header {
   text-align: center;
@@ -406,15 +405,15 @@ code {
 
 /* Footer */
 #footer {
+  position: absolsute;
   background-color: #ff6600;
   color: #FDFDFD;
   text-align: center;
   height: 50px;
   padding: 0.6667em 0;
   width: 100%;
-  clear: both;
-  position: absolsute;
-  bottom: 0; }
+  bottom: 0;
+  clear: both; }
 
 /*
  * A Github stylesheet to highlight code snippet
