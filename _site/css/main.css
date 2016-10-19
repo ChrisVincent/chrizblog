@@ -409,7 +409,10 @@ code {
   color: #FDFDFD;
   text-align: center;
   height: 50px;
-  padding: 0.6667em 0; }
+  padding: 0.6667em 0;
+  width: 100%;
+  position: absolsute;
+  bottom: 0; }
 
 /*
  * A Github stylesheet to highlight code snippet
