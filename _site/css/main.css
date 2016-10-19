@@ -12,6 +12,11 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
   padding: 0;
   border: 0; }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
 /*- Base color -*/
 /*- Base settings -*/
 html {
@@ -27,7 +32,8 @@ html {
 a {
   color: #ff6600;
   text-decoration: none;
-  font-weight: 700; }
+  font-weight: 700;
+  cursor: pointer; }
   a:hover, a:focus {
     color: #e65c00; }
 
@@ -271,10 +277,20 @@ blockquote {
     .fixed {
       position: static; } }
 
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  position: relative; }
+
 #container {
   margin: 0 auto;
   max-width: 730px;
-  padding: 0 1.5rem; }
+  /*padding: 0 1.5rem;*/
+  padding-bottom: 50px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  height: auto; }
 
 #header {
   text-align: center;
@@ -388,10 +404,11 @@ code {
   border-radius: 4px; }
 
 /* Footer */
-footer {
+#footer {
   background-color: #ff6600;
   color: #FDFDFD;
   text-align: center;
+  height: 50px;
   padding: 0.6667em 0; }
 
 /*

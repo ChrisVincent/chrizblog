@@ -2,7 +2,7 @@
 
 /* Navigation */
 
-#nav, #nav-left { 
+#nav, #nav-left {
   a {
     display: block;
     color: $background-color;
@@ -110,11 +110,21 @@
     position: static;
   }
 }
+#wrap {
+  min-height:100%;
+  height: auto !important;
+  height: 100%;
+  position: relative;
+}
 
 #container {
 	margin:0 auto;
 	max-width: 730px;
-	padding: 0 1.5rem;
+	/*padding: 0 1.5rem;*/
+  padding-bottom: 50px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  height:auto;
 }
 
 #header {
@@ -247,9 +257,10 @@ code {
 
 /* Footer */
 
-footer {
+#footer {
   background-color: $main-color;
   color: $background-color;
   text-align: center;
+  height:50px;
   padding: 0.6667em 0;
 }
