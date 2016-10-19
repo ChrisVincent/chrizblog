@@ -111,7 +111,6 @@
   }
 }
 #wrap {
-  display: block;
   min-height:100%;
   height: auto !important;
   height: 100%;
@@ -260,15 +259,14 @@ code {
 /* Footer */
 
 #footer {
-  display: block;
   position: absolsute;
   background-color: $main-color;
   color: $background-color;
   text-align: center;
   height:50px;
   padding: 0.6667em 0;
+  left:0;
   width:100%;
   bottom: 0;
-  clear: both;
 
 }

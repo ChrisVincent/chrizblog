@@ -278,7 +278,6 @@ blockquote {
       position: static; } }
 
 #wrap {
-  display: block;
   min-height: 100%;
   height: auto !important;
   height: 100%;
@@ -407,16 +406,15 @@ code {
 
 /* Footer */
 #footer {
-  display: block;
   position: absolsute;
   background-color: #ff6600;
   color: #FDFDFD;
   text-align: center;
   height: 50px;
   padding: 0.6667em 0;
+  left: 0;
   width: 100%;
-  bottom: 0;
-  clear: both; }
+  bottom: 0; }
 
 /*
  * A Github stylesheet to highlight code snippet
