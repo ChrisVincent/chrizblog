@@ -9,8 +9,15 @@ layout: default
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date: "%Y-%m-%d" }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+	  	<!--<p>{{ post.content | strip_html | truncatewords:50 }}</p>-->
+			{% if post.content.size > 200 %}
+      {{ post.content | strip_html | truncate: 200 }} <!-- bad! content gives you rendered html and you will truncate in the middle of a node -->
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">[阅读更多]</a>
+   {% else %}
+      {{ post.content }}
+   {% endif %}
+
+	</li>
 
     {% endfor %}
 

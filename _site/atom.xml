@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>ChriZ - 创作|生活|学习|爱</title>
+ <title>ChriZ - 产品经理|创作|生活|学习|爱</title>
  <link href="http://chriz.vip/atom.xml" rel="self"/>
  <id>http://chriz.vip</id>
- <updated>2016-10-18T21:52:39+08:00</updated>
+ <updated>2016-10-19T13:12:40+00:00</updated>
  <author>
    <name>ChriZ</name>
    <uri>http://chriz.vip</uri>
@@ -17,98 +17,247 @@
    <title>新的篇章</title>
    <link href="http://chriz.vip/new-chapter"/>
    <id>http://chriz.vip/new-chapter</id>
-   <updated>2016-10-17T00:00:00+08:00</updated>
+   <updated>2016-10-17T00:00:00+00:00</updated>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; 这是新篇章&lt;/p&gt; &lt;h2 id=&quot;this-is-a-h2&quot;&gt;This is a h2&lt;/h2&gt; &lt;h3 id=&quot;h3-h4-h5-and-h6-have-the-same-style&quot;&gt;h3, h4, h5 and h6 have the same style.&lt;/h3&gt; &lt;p&gt;coooooool！&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;This is a blockquote&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;list 1&lt;/li&gt; &lt;li&gt;list 2&lt;/li&gt; &lt;li&gt;list 3&lt;/li&gt; &lt;li&gt;list 4&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;one&lt;/li&gt; &lt;li&gt;two&lt;/li&gt; &lt;li&gt;three&lt;/li&gt; &lt;li&gt;four&lt;/li&gt; &lt;/ol&gt;...</content>
  </entry>
 
  
 
  <entry>
-   <title>Typograhy example</title>
-   <link href="http://chriz.vip/typography"/>
-   <id>http://chriz.vip/typography</id>
-   <updated>2015-03-19T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+   <title>不成长，跟死了没两样</title>
+   <link href="http://chriz.vip/growth"/>
+   <id>http://chriz.vip/growth</id>
+   <updated>2013-07-15T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;em&gt;2013年年中自勉&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2013-07-15.jpg&quot; alt=&quot;柳井正&quot; title=&quot;柳井正&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你每天只知道追美剧看选秀打LOL，忽然有一天关系到家族生计的一大摊子事要你全部扛起，你根本无力承担，你会怎么做？&lt;/p&gt;
+
+&lt;p&gt;如果你不甘一生平庸，怀揣梦想要干一番大事业，却发现事事皆非所愿，因为不信任你的能力，没有人愿意提供帮助，你会怎么做？&lt;/p&gt;
+
+&lt;p&gt;如果你拼劲一腔热血大胆创新，不断尝试，却屡屡失败，一次次付出惨重代价，你会怎么做？&lt;/p&gt;
+
+&lt;p&gt;假如有一天你有幸做到了第一名，环顾四周，剩下的对手只有自己，你会怎么做？&lt;/p&gt;
+
+&lt;p&gt;面对上面这些难题，一位出生于1949年的男人用他丰富曲折的从商经历交出了一份精彩的人生答卷。他就是凭借优衣库品牌成为日本首富，被誉为日本新经营之神的柳井正。&lt;/p&gt;
+
+&lt;p&gt;在问及他的成功之道时，他谦虚地说，“世人把我看做成功者，我却不以为然，我的人生其实是一胜九败。如果说取得了一些成功，那也是不怕失败、不断挑战的结果。”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;安定才是风险，不成长，跟死了没两样。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这是优衣库总裁柳井正坚持奉行的经营理念。也是他四十多年从商经历的真实写照。&lt;/p&gt;
+
+&lt;p&gt;正因为有这样的理念支撑自己，柳井正才能鼓起勇气在没有任何经验的情况下接手父亲的西装店，不断学习，不断试错。在他最艰难时，甚至整个店铺的伙计全部走光，只剩一位员工维系店内生意。在这之后，他果断关闭了家族经营半个世纪的西装店，转型专心做休闲服装，并不断学习欧美前辈的先进经验为我所用，终于发展出自己的优衣库品牌。&lt;/p&gt;
+
+&lt;p&gt;为了让优衣库在竞争激烈的市场中生存下来，柳井正一刻没有停下变革的脚步。他不断尝试创新的做法，主动迎接未知的挑战，虽然失败了一次又一次，可是他从没有放弃。他清楚，&lt;strong&gt;如果不拼命努力改变，不可能只靠一直维持现状就能生存；如果不主动去想自己要变成什么样，就没有任何理由在未来存活。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在优衣库成功做到日本第一，成为日本的国民品牌，并在国际上取得空前影响力的情况下，柳井正并没有志得意满地安于现状，更没有因为成长而自我膨胀。他继续不断挑战和改变自我，带着对未来的大胆憧憬，带领优衣库走向新的篇章。&lt;/p&gt;
+
+&lt;p&gt;看完柳井正的人生经历，再回想从小来自父母的教育理念，我受到深深的触动。父母从小教育我要谨慎做事，世上没有后悔药，没有想好的事情千万不要做。而柳井正却说：“只要不致命，我认为失败也无所谓。因为不去做，就永远不知道结果如何，在行动前考虑再多，都是在浪费时间。只有实践，才能出真知。”&lt;/p&gt;
+
+&lt;p&gt;以后还因为害怕失败而犹豫时，我要告诉自己，不要怕失败，只怕没有努力、没有成长。&lt;strong&gt;没有人会因为婴儿不会说话而嘲笑他们，说他们有多笨，因为人们都知道，他们只是还没有学习讲话，只是需要一些时间成长而已。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;不成长，才跟死了没两样。&lt;/p&gt;
+
+&lt;p&gt;我没有背景我只有背影，我决不愿就此庸碌无为的度过一生。只有努力改变和创造，才能让自己和家人过上尊严体面的生活。只有还有一口气在，就要为了明天的生活而奋战！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我要创造，我要改变，我要为了尊严努力的活下去。&lt;/strong&gt;&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Code Syntax</title>
-   <link href="http://chriz.vip/code-syntax"/>
-   <id>http://chriz.vip/code-syntax</id>
-   <updated>2015-03-01T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+   <title>不要再纠结“那些年一起追过的女孩”了好吗</title>
+   <link href="http://chriz.vip/china-parteners"/>
+   <id>http://chriz.vip/china-parteners</id>
+   <updated>2013-05-22T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;em&gt;《中国合伙人》观后&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2013-05-22.jpg&quot; alt=&quot;中国合伙人&quot; title=&quot;中国合伙人&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;今夜不惜冒着大雨、去还在装修中的半完工电影院，看了《中国合伙人》，一部被塑造为中国青春励志正能量的电影。看完后我有一丝感动，但更多的是失望。这一丝感动留到最后再说。先说说失望。失望在于我很难感受到其中的励志成分，尤其是电影中的土鳖男主角逆袭翻身，与抛弃自己的昔日女神重逢之时，我看到的是《那些年一起追的女孩》的柯景腾赚钱成名后对被人甩这件事耿耿于怀的拧巴和矫情。&lt;/p&gt;
+
+&lt;p&gt;男人总是纠结于自己曾爱过，却不爱自己的女人。倘若这男人这辈子未能发奋图强扭转命运，反而随着年纪的增长渐渐为生活所困，成为心思猥琐行为怯懦的大叔，那这个故事基本就此结束了。不过如果这男人能够在被女人抛弃后发奋努力，经历风雨磨砺终于一扫年轻时的傻逼姿态，从一只被低估的垃圾股华丽转身为节节攀升的绩优股。当他再次面对当年拒绝自己的女人，尤其是这女人此刻已被生活折磨成为无比世俗的大妈之时，会在心中油然产生一种无与伦比的畅快感和复仇感。&lt;/p&gt;
+
+&lt;p&gt;这种复仇感，让很多围观的男人（也包括女人，女人的复仇对象是甩了自己的男人）大呼过瘾，仿佛自己现在的傻逼状态就是男神落魄时的姿态，而男神扬眉吐气的那一刻就是自己的明天。每一个自称屌丝的人，都在心中幻想自己成为男神或女神的那一天。他们自称屌丝，其实是在向身边的人发出警告——你们给我放尊重点，我现在只是虎落平阳，我会逆袭，时间很快就会证明我的真正实力。&lt;/p&gt;
+
+&lt;p&gt;来看看镜头里的这几乎千篇一律的故事吧——&lt;/p&gt;
+
+&lt;p&gt;成东青创造了新希望，成为受人尊敬的留学教父之后，与已成为外国小孩他妈的昔日女神重逢。听到昔日的女神今日的大妈一句“我为你骄傲”，他泪流满面，无语凝咽；&lt;/p&gt;
+
+&lt;p&gt;靠着写小说码字成为两岸知名作家的九把刀，在身价千万之后，执导开拍《那些年一起追过的女孩》，刻意要把自己和当年女神的故事搬到大荧幕，对自己当年追求被拒之事津津乐道，不惜通过剧中男主角喊出“我也喜欢那个喜欢你的自己”。&lt;/p&gt;
+
+&lt;p&gt;他们走过的路无非是这样：那年我很搓，那年你很美。很美的你无情拒绝了很搓的我。我扭转命运，我改造人生。时过境迁现在我很牛，现在你不再美。你我再重逢，我很得意，你很后悔。&lt;/p&gt;
+
+&lt;p&gt;唐朝末年大闹长安城，轰轰烈烈发动黄巢起义的黄巢，在考试屡屡不中之时，也曾留过一首霸气冲天、怨气弥漫的诗——&lt;/p&gt;
+
+&lt;p&gt;“飒飒西风满院栽，蕊寒香冷蝶难来。他年我若为青帝，报与桃花一处开。”&lt;/p&gt;
+
+&lt;p&gt;与当今深感怀才不遇的屌丝端的是同一种心态。他们最爱看咸鱼翻身的戏码。连陈欧给自己的聚美做广告，都忍不住拿创业初期被鄙视说事，来吸引关注。&lt;/p&gt;
+
+&lt;p&gt;其实很想说，不要跟着他们共鸣了。成功是他们的，是他们的努力换来的。他们可以做到，不代表你也可以。沉浸在别人的成功之中，充满幻想而不付诸行动，你永远不会实现逆袭。&lt;/p&gt;
+
+&lt;p&gt;其实很想说，不要再纠结“那些年一起追过的女孩”了好吗？不经一番寒彻骨，哪得梅花扑鼻香。我相信每一份受人尊敬的成功，都源自苦难的洗礼和咬牙的坚持。想要成功的人，都要通过自己的努力和付出来换取。而这些努力的汗水换来的成功，是上帝送给自己的礼物，而不是拿来复仇的武器。&lt;/p&gt;
+
+&lt;p&gt;最后说下本文开头提到的看电影时的一丝感动。这一丝感动来自于黄晓明，那个因为“闹太套”而被人耻笑的黄晓明，在这部片子中凭借知耻近乎勇的苦练英语，成功胜任了留学教父的角色。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这才是正能量。这才是《中国合伙人》最励志的部分。&lt;/strong&gt;&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 8</title>
-   <link href="http://chriz.vip/example-8"/>
-   <id>http://chriz.vip/example-8</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>迟来的2012年终总结</title>
+   <link href="http://chriz.vip/my-2012"/>
+   <id>http://chriz.vip/my-2012</id>
+   <updated>2013-02-15T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/2013-02-15.jpg&quot; alt=&quot;2012&quot; title=&quot;2012&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2012年过去了，龙年也过去了。这一年，是值得纪念的一年，一直想要做的年终总结，却迟迟没有动笔。今天是大年初五，过年的喧嚣渐渐告一段落，我也要静下心来好好总结下这一年了。&lt;/p&gt;
+
+&lt;p&gt;2012年初告别了长沙，结束了3个多月的休息，来到遥远的广州，踏上了找寻的道路。初来乍到的一个星期里，在朋友宿舍、人才市场、公司商务大楼几地间辗转，深深感受到了妖都的大视野和快节奏，期间接触到的人都仿佛充满活力走路生风说话带劲，给迷茫的我带来最有力的激励。&lt;/p&gt;
+
+&lt;p&gt;3月进入新公司，一家简单却充满激情的公司。贴心的管理，亲切的领导，友好的同事，快节奏的工作，新公司的一切都让我新奇而感动，给我留下了深远的影响。从进入公司的那一刻起，我就在天真的想，这就是一个公司理想中的样子，如果有自己的公司，这里就是我的老师。&lt;/p&gt;
+
+&lt;p&gt;在紧张而有序的工作中，我学习到了很多以前没机会学到的知识，也在渐渐开拓着视野。期间遇到了很多问题，也犯了不少错误，碰上许多棘手的麻烦。但是我觉得我们生来就是为了解决问题而来的，遇到的问题，只要想办法，总可以解决。重要的是有目标。只要有奔头，有再多问题，都可以找到答案。所有那些解不开的麻烦，绝望的难题，很大程度是因为失去了方向导致的。很开心的是，跟我们的团队在一起，总是很有清晰的目标。于是，每天都冲啊，冲啊。每天都充实而有意义。&lt;/p&gt;
+
+&lt;p&gt;今年换过几次办公地点，所以也把广州公司的几个餐厅都吃了一遍，不一样的环境，相同的同伴和心情。只是食堂饭菜吃久了，少了初来乍到时的那种新鲜感。&lt;/p&gt;
+
+&lt;p&gt;10月的时候老同事小强也来到了广州，于是两人一拍即合，我就告别了住了7个月的旧房子，换了个新房间，两人合住。周末一起吃个烧烤，倒也舒服惬意。&lt;/p&gt;
+
+&lt;p&gt;今年8月份在ipad上看了《明朝那些事儿》，有点意犹未尽，又在图书馆借了《权利野兽朱元璋》、《张居正传》、《神奇圣人王阳明》这些书，看的津津有味。一路看下来，感觉开口说话都要变成我大明怎样怎样了。这之后看了些营销书籍，运营营销是我的短板，年前借了几本大部头，年后回去好好研究下。此外，英语也要好好加强了。一天不练，手生脚慢，两天不练，功夫丢一半。再不练，功夫要丢到家了。&lt;/p&gt;
+
+&lt;p&gt;展望明年，将迎来新的机会和挑战，我也要收拾下此刻散漫的心情，开始踏上新的征程了。虽然已经过了天真到相信自己凡事“战必胜攻必取”的年纪，却还没有老成悲观到怀疑未来。不断努力吧，骚年不怕远征难，万水千山只等闲。&lt;/p&gt;
+
+&lt;p&gt;2013，我依然相信明天。&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 7</title>
-   <link href="http://chriz.vip/example-7"/>
-   <id>http://chriz.vip/example-7</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>我可以给，但你不能要</title>
+   <link href="http://chriz.vip/I-can-give-but-you-cant-demond"/>
+   <id>http://chriz.vip/I-can-give-but-you-cant-demond</id>
+   <updated>2012-09-09T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/2012-09-09.jpg&quot; alt=&quot;我可以给，但你不能要&quot; title=&quot;我可以给，但你不能要&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这些年，莽撞地走了很久，发现想要的总是得不到，不想要的总是接二连三的来。年轻气盛时，以为自己是深受命运宠爱的幸运之子，想要的都会应有尽有。被生活消磨了锐气之后，发现自己不过是芸芸众生中的一员，平凡而又卑微。&lt;/p&gt;
+
+&lt;p&gt;锐气折了，坚韧却没有练成，感觉就像放在温水里煮的青蛙，渐渐在不尽如意的现实中迷失了自我，除了抱怨生不逢时、时不我与外，便开始在不知不觉间放纵和消沉。&lt;/p&gt;
+
+&lt;p&gt;直到看到这句话，才恍然明白了命运的本意。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我可以给，但你不能要。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;你想要的一切，命运都可以给你，但你不能开口索要。机遇、成功，命运都可以给你，但不是靠要来的，而是要靠自己奋斗去争取来的。&lt;/p&gt;
+
+&lt;p&gt;现在的一切是命运给你的，也许你很不满意，但你不应该抱怨，更不应该放纵自我。你要做的，就是命运给你什么你就用什么，扬长避短，通过努力奋斗去争取命运更好的馈赠。&lt;/p&gt;
+
+&lt;p&gt;一切的机遇和贵人，都会在你奋斗的水深火热之时，由命运送到你身边。&lt;/p&gt;
+
+&lt;p&gt;当然也可能会遇到来自命运的玩笑，所谓费尽心机却天意弄人。不过这绝不应该是你自甘堕落的借口，因为很多时候，我们拼尽力气所做的一切努力，只是为了获得一次在命运面前掷骰子的机会而已。&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 6</title>
-   <link href="http://chriz.vip/example-6"/>
-   <id>http://chriz.vip/example-6</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>年中惊奇回顾</title>
+   <link href="http://chriz.vip/mid-of-the-year"/>
+   <id>http://chriz.vip/mid-of-the-year</id>
+   <updated>2012-07-01T00:00:00+00:00</updated>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;从岁首到年终，耶和华你神的眼目时常看顾那地。—-申命记，11章，11节&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;从岁首，来到了年中，传说中的2012就在眨眼间过去了一半。幸喜有神看顾保守，才得以一路平安地走过。回顾这半年光阴，有些事仿佛刚刚发生，有些事却已恍如隔世。古人云：当你坚持不懈、挥汗如雨的时候，造物主未必都能明鉴；但当你放浪形骸、自甘堕落的时候，全世界都会将你抛弃。我想还是趁着年中的机会，坦白从宽，主动把所有造物主未能明鉴的部分、以及放浪形骸的部分都交代清楚吧。或许到了年终，还是有机会扳回一分的。&lt;/p&gt;
+
+&lt;p&gt;以学生身份迎来了2012年。那段学习的日子是一段令人怀念的时光。每天沿着晚报大道和车站北路步行去教室，在明亮的房间里听讲、练习、讨论，然后放学背着书包悠然自得的走回住处。工作之后还能有这样的学习经历，无疑是珍贵的。更难得的是享受了一回只有学生才有的寒假。只是这个寒假其实内心其实充满了躁动和不安，还有对未来的些许期待。那些日子在家里投了很多简历，大多数都是北京的公司。在我对未来的设想中，我已经把自己当作了一个即将前往帝都的北漂一族。甚至在离开学之前我还要妈妈给我特意买了一身新衣服，心想到了帝都一定不能丢了份。&lt;/p&gt;
+
+&lt;p&gt;回到长沙，开始一边学习一边联系工作。陆续接到一些面试邀约。以南方沿海城市的公司居多，北京也有，但从长沙去北京不太方便了，而且北京的公司好像很少有电话面试的习惯。于是一咬牙，决定南下，去了广州。大一的时候，年少迷惘的我曾经在街头找过一个算命的大娘，大娘说我将来会在南方发展。坐在火车上想起这段往事，我不禁一阵莞尔，从北方到武汉到长沙再到广州，或许这就是命运。&lt;/p&gt;
+
+&lt;p&gt;一出广州火车站我就被南方的闷热气候击败了。当时是2月底时节，正值广州最难熬的“回南天”时节。到处是闷热的湿气，地面上、墙壁上、楼梯上全是湿气化成的水。从长沙穿来的厚衣服粘在身上，整个人几乎随时都会霉变。在广州第一次见到高大的椰子树，第一次乘坐地铁，第一次，见识大城市的匆忙和繁华。&lt;/p&gt;
+
+&lt;p&gt;我在朋友岗顶的住处落脚，我在体育西路的短租房落脚，我在科韵路的公司宿舍落脚。我去各公司面试，我去网吧上网，我去南方人才市场寻觅，我漫无目的地在广州街头瞎晃。我匆匆忙忙地穿过马路，我战战兢兢地挤过人群，我小心翼翼地藏好自己的贵重物品。那段仿佛流浪的日子，带给我一番别样的回忆。&lt;/p&gt;
+
+&lt;p&gt;很快进入新的公司。面临完全陌生的环境，适应公司快速的工作节奏，我谨慎地做好每件事。直到渐渐熟悉，渐渐适应。这是主的眷顾和保守。我才可以顺利地适应下来，并且渐渐可以越做越好。&lt;/p&gt;
+
+&lt;p&gt;马上要工作年中总结了。我絮絮叨叨写了些流水帐一样的废话，就当作半年的回顾。&lt;/p&gt;
+
+&lt;p&gt;我知道自己是个适应力强的人，就这样按部就班地走下去，是可以做出正常的成绩来。但是我希望自己可以再刻苦一点，努力一点，争取取得一些超过别人的成绩。这样，才不愧于最初的梦想。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;年中就这样吧。年终见。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;希望年终时，能够用努力和汗水得到主的明鉴。&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 5</title>
-   <link href="http://chriz.vip/example-5"/>
-   <id>http://chriz.vip/example-5</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>我要开始认真了</title>
+   <link href="http://chriz.vip/be-serious"/>
+   <id>http://chriz.vip/be-serious</id>
+   <updated>2012-05-06T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;有时候觉得这个世界好无奈，一想到那些一眼望不到边的日复一日，就感到乏味到要吐。尤其是满脑子不着边际的幻想都还在天边游荡，可一眨眼时间已经飞快流逝而去时，整个世界都像是黑白默片般失去光彩，只剩下空虚和无助在尖叫，却发不出任何声音。&lt;/p&gt;
+
+&lt;p&gt;小时候我常常对自己说，等我长大了，一切都会好起来。&lt;/p&gt;
+
+&lt;p&gt;可是现在，一切都还是老样子。可我已经不可避免的长大了，苍老了。&lt;/p&gt;
+
+&lt;p&gt;现在我要认真起来了。这个世界，你等着我，我会改变你。&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 4</title>
-   <link href="http://chriz.vip/example-4"/>
-   <id>http://chriz.vip/example-4</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>你觉得人什么时候是死了？</title>
+   <link href="http://chriz.vip/cant-die"/>
+   <id>http://chriz.vip/cant-die</id>
+   <updated>2012-04-23T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;人はいつ死ぬと思う？&lt;/p&gt;
+
+&lt;p&gt;心臓をピストルで打ち抜かれた時。違う！ 
+不治の病に冒された時。違う！！ 
+猛毒キノコスープを飲んだ時。違う！！！ 
+人に・・・忘れられた時さ！！！！&lt;/p&gt;
+
+&lt;p&gt;你觉得人什么时候是死了？&lt;/p&gt;
+
+&lt;p&gt;心脏被子弹穿透的时？不对！&lt;/p&gt;
+
+&lt;p&gt;得了不治之症时？不对！&lt;/p&gt;
+
+&lt;p&gt;喝了剧毒的蘑菇汤时？不对！&lt;/p&gt;
+
+&lt;p&gt;被人们忘记的时候！！！&lt;/p&gt;
+</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 3</title>
-   <link href="http://chriz.vip/example-3"/>
-   <id>http://chriz.vip/example-3</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
+   <title>无题：就这样开始</title>
+   <link href="http://chriz.vip/xiaochris"/>
+   <id>http://chriz.vip/xiaochris</id>
+   <updated>2012-04-18T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;困难和难堪，只有在成功之后才会显得有趣。&lt;/p&gt;
 
- 
+&lt;p&gt;成功之后，之前越是困难，越是有趣；当时越是难堪，越是有趣。&lt;/p&gt;
 
- <entry>
-   <title>Example 2</title>
-   <link href="http://chriz.vip/example-2"/>
-   <id>http://chriz.vip/example-2</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+&lt;p&gt;可是如果忙到最终也没有成功，那所有的困难和难堪都会变成笑话。越是努力试图摆脱困难、躲避难堪，就越是笑话。&lt;/p&gt;
+
+&lt;p&gt;是努力拼到困难和难堪都变得有趣，还是费劲让困难和难堪都变成笑话？&lt;/p&gt;
+
+&lt;p&gt;据我所知，前者都变成了高帅富，后者都变成了屌丝。&lt;/p&gt;
+</content>
  </entry>
 
  
