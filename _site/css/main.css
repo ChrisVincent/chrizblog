@@ -284,7 +284,7 @@ blockquote {
   position: relative; }
 
 #container {
-  display: block;
+  position: relative;
   margin: 0 auto;
   max-width: 730px;
   padding-top: 0;
