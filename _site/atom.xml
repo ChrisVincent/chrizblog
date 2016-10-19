@@ -4,7 +4,7 @@
  <title>ChriZ - 产品经理|创作|生活|学习|爱</title>
  <link href="http://chriz.vip/atom.xml" rel="self"/>
  <id>http://chriz.vip</id>
- <updated>2016-10-19T14:34:44+00:00</updated>
+ <updated>2016-10-19T14:48:35+00:00</updated>
  <author>
    <name>ChriZ</name>
    <uri>http://chriz.vip</uri>
@@ -14,11 +14,61 @@
  
 
  <entry>
-   <title>新的篇章</title>
-   <link href="http://chriz.vip/new-chapter"/>
-   <id>http://chriz.vip/new-chapter</id>
-   <updated>2016-10-17T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; 这是新篇章&lt;/p&gt; &lt;h2 id=&quot;this-is-a-h2&quot;&gt;This is a h2&lt;/h2&gt; &lt;h3 id=&quot;h3-h4-h5-and-h6-have-the-same-style&quot;&gt;h3, h4, h5 and h6 have the same style.&lt;/h3&gt; &lt;p&gt;coooooool！&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;This is a blockquote&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;list 1&lt;/li&gt; &lt;li&gt;list 2&lt;/li&gt; &lt;li&gt;list 3&lt;/li&gt; &lt;li&gt;list 4&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;one&lt;/li&gt; &lt;li&gt;two&lt;/li&gt; &lt;li&gt;three&lt;/li&gt; &lt;li&gt;four&lt;/li&gt; &lt;/ol&gt;...</content>
+   <title>看一眼标题就可以放下的书</title>
+   <link href="http://chriz.vip/bad-book"/>
+   <id>http://chriz.vip/bad-book</id>
+   <updated>2015-12-24T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;时间有限，只读好书，不要把时间浪费在无用的书上。
+看没用的书，心情就像是硬着头皮吃狗屎，压抑着内心恶心，又不想半途而废。结果是既坏了心情，又浪费时间。&lt;/p&gt;
+
+&lt;p&gt;看《年轻就是要活出你自己》这本书就有这种感觉。&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>《飞得更高》一本烂书</title>
+   <link href="http://chriz.vip/sunzhengyi"/>
+   <id>http://chriz.vip/sunzhengyi</id>
+   <updated>2014-11-15T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;想看高手打怪，结果每次关底主角光环一闪，BOSS就死了&lt;/p&gt;
+
+&lt;p&gt;这本孙正义的传记是日本人写的。文笔很细腻，并且不吝以各种溢美之词赞美孙的过人品质。前面一半看起来觉得还不错。可是越往后看越觉得内容空洞。&lt;/p&gt;
+
+&lt;p&gt;看传记，是为了更好的了解一个人是怎么成长起来的。希望可以随着作者对传主一路的文字跟踪，看到主人公是怎么打怪练级从一个菜鸟变成一个牛逼大boss的。&lt;/p&gt;
+
+&lt;p&gt;结果在这本传记中，每次传主遇到困难要打怪了，作者笔下的孙正义就会发出一道主角光环（对方折服于孙的远大志向、奋斗激情和人格魅力），然后怪就死了（事情得到圆满解决）。通篇看下来，读者根本不知道孙正义是怎么成为今天的孙正义的。&lt;/p&gt;
+
+&lt;p&gt;失去了读这本传记的意义。&lt;/p&gt;
+
+&lt;p&gt;所以这本书看完就算了。&lt;/p&gt;
+
+&lt;p&gt;还没看的，可以直接去看百度百科。&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>对社交网络需要保持两点警惕</title>
+   <link href="http://chriz.vip/social-network"/>
+   <id>http://chriz.vip/social-network</id>
+   <updated>2014-06-08T00:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;这不是一篇严格意义的书评。面对这部学术气息浓厚的著作，我还没有能力做出完整的评论，只是作为一个被社交网络淹没的现代人，谈几点自己关于社交网络的观点。&lt;/p&gt;
+
+&lt;p&gt;《社交网络改变世界》一书的两位作者引用了大量的事实和数据，从起源、现状和趋势分析了社交网络对人类生活可能带来的改变。可以看出，作者对于社交网络，或者说WEB2.0的民主形式充满了信心。从书中也可以看出，作者的观点倾向于大众的智慧必定战胜精英统治，成为这个世界变化的主要推动力。&lt;/p&gt;
+
+&lt;p&gt;我不反对作者的观点，我们正在进入一个消费者主权至上的时代，用户就是上帝不再是一句简单的口号。作为一个普通人，我可以发微博，可以在微信上发表自己的观点，可以通过公众帐号影响很多人，可以轻松的在论坛表达自己对热点事件的看法，能够拥有这样的自由权利，全是拜社交网络所赐。生逢其时，我们是幸运的。&lt;/p&gt;
+
+&lt;p&gt;可是，我认为对于社交网络的发展，要保持两方面的警惕，避免过度乐观。
+一是避免对大众智慧的过分信任，群体的决策并不总是最好的，人心的恶难以消除，普通人中占有大比例的都是乌合之众。无论社交网络怎样改变世界，精英的管理和引导还是必须的。
+二是需要对提供社交网络的平台方保持必要的警惕，在他们的体量足够大时，就有了作恶的足够资本。到这个时候他们可以出于自身的狭隘利益毫无顾忌的做一些蹂躏大众意志的行为。而依托这些平台的大众对平台方往往缺少必要的约束力。一旦遇到平台方作恶，作为个体很难维护自我合法利益。&lt;/p&gt;
+
+&lt;p&gt;最后说一下，用户在社交网络中建立信任和参与讨论的动机真的很值得研究，书中虽然有所提及——
+“大多数从事志愿者活动的人都是被一些理性和非理性综合因素刺激着，比如价值，社会资本，学习，事业效益，赎罪和个人提升等。当然也存在玩笑和恶意企图的风险。”
+但是没有针对这个话题深入展开，毕竟全书主要关注的是社交网络如何改变世界的。有机会希望可以读一些与用户心理因素相关的书籍，因为这部分是一个很意思的话题。&lt;/p&gt;
+</content>
  </entry>
 
  
@@ -238,25 +288,6 @@
 &lt;p&gt;喝了剧毒的蘑菇汤时？不对！&lt;/p&gt;
 
 &lt;p&gt;被人们忘记的时候！！！&lt;/p&gt;
-</content>
- </entry>
-
- 
-
- <entry>
-   <title>无题：就这样开始</title>
-   <link href="http://chriz.vip/xiaochris"/>
-   <id>http://chriz.vip/xiaochris</id>
-   <updated>2012-04-18T00:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;困难和难堪，只有在成功之后才会显得有趣。&lt;/p&gt;
-
-&lt;p&gt;成功之后，之前越是困难，越是有趣；当时越是难堪，越是有趣。&lt;/p&gt;
-
-&lt;p&gt;可是如果忙到最终也没有成功，那所有的困难和难堪都会变成笑话。越是努力试图摆脱困难、躲避难堪，就越是笑话。&lt;/p&gt;
-
-&lt;p&gt;是努力拼到困难和难堪都变得有趣，还是费劲让困难和难堪都变成笑话？&lt;/p&gt;
-
-&lt;p&gt;据我所知，前者都变成了高帅富，后者都变成了屌丝。&lt;/p&gt;
 </content>
  </entry>
 
