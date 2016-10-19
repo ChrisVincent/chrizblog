@@ -406,7 +406,6 @@ code {
 
 /* Footer */
 #footer {
-  position: absolsute;
   background-color: #ff6600;
   color: #FDFDFD;
   text-align: center;
@@ -414,7 +413,7 @@ code {
   padding: 0.6667em 0;
   left: 0;
   width: 100%;
-  bottom: 0; }
+  margin-top: -50px; }
 
 /*
  * A Github stylesheet to highlight code snippet
